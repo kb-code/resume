@@ -1,7 +1,7 @@
 # Site settings
 title: Kathryn Brown's CV 
 description: kb-code's CV
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/avatar.png
 baseurl: https://kb-code.github.io/resume
 url: https://kb-code.github.io/resume
 rss_url: /pages/atom.xml
@@ -14,10 +14,10 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Kathyn Brown
+  name: Kathryn Brown
   title: Full Stack Developer
   address: Los Angeles, CA
-  email: hirekathrynbrown#gmail.com
+  email: hirekathrynbrown at gmail dot com
   link: https://kathrynbrown.us
   weibo:
   github: kb-code
