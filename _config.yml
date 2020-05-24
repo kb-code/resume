@@ -1,0 +1,85 @@
+# Site settings
+title: Kathryn Brown's CV 
+description: kb-code's CV
+favicon: /assets/img/avatar.JPG
+baseurl: https://kb-code.github.io/resume
+url: https://kb-code.github.io/resume
+rss_url: /pages/atom.xml
+google_analytics: UA-63653234-1
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Kathyn Brown
+  title: Full Stack Developer
+  address: Los Angeles, CA
+  email: hirekathrynbrown#gmail.com
+  link: https://kathrynbrown.us
+  weibo:
+  github: kb-code
+  linkedin: hirekathrynbrown
+  twitter: thatoutdoorkat
+  gavatar: /resumecard/assets/img/avatar.JPG
+  stackoverflow:
+#  stackoverflow: 4582127
+  workHistory:
+    - work1:
+      company: XXX Ltd
+      location: Auckland, New Zealand
+      title: Java Developer
+      started: 2014
+      duration: (2014 - Present)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work2:
+      company: XXX Ltd
+      location: Shanghai, China
+      title: Java Developer
+      started: 2012
+      duration: (2012 - 2014)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work3:
+      company: XXX Ltd
+      location: Shanghai, China
+      title: Java Developer
+      started: 2009
+      duration: (2009 - 2012)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  educationHistory:
+    - education1:
+      organization: XXXXXX University
+      location: Shenyang, China
+      degree: Bachelor
+      major: Software Engineering
+      started: 2005
+      duration: (2005 - 2009)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  languages:
+    - language1:
+      name: Chinese
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: Professional
+    - language3:
+      name: Japanese
+      proficiency: Limit
+  programmingSkills:
+    - skill1:
+      name: HTML
+      percentage: 100%
+    - skill2:
+      name: JavaScript
+      percentage: 70%
+    - skill3:
+      name: Python
+      percentage: 60%
+    - skill4:
+      name: ReactJS
+      percentage: 40%
+    - skill5:
+      name: SQL
+      percentage: 90%
