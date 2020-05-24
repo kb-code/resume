@@ -28,26 +28,26 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
+      company: 
+      location: 
+      title: Developer
       started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: ()
+      description: description coming soon...
+    - work2:
+      company: Seed Librarian
+      location: Los Angeles, CA
+      title: Webmaster, Founder
+      started: 2013
+      duration: (2013 - present)
+      description: Founder and lead developer for a site that lists the locations of seed libraries around the world. The site uses Leaflet.js and a JSON file structure to hosue the library listings. Top ranked site on Google for queries within its niche topic.
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Meteor Multimedia
+      location: Los Angeles, CA
+      title: Chief Creative Officer
+      started: 2003
+      duration: (2003 - 2013)
+      description: Lead creative designer and developer for digital creative agency specializing in file production and small business client services. Services included website development, branding materials (business cards, brochures, fundraising videos, copywriting, and product photography), adn digital strategy consultation. Produced a feature film from concept to release with an online streatming distributor.
   educationHistory:
     - education1:
       organization: Duke University
