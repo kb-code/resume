@@ -23,7 +23,7 @@ author:
   github: kb-code
   linkedin: hirekathrynbrown
   twitter: thatoutdoorkat
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /resume/assets/img/avatar.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
@@ -50,13 +50,13 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: Duke University
+      location: Durham, NC
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Sociology; Media Studies Certificate
+      started: 1997
+      duration: (1997 - 2001)
+      description: National Merit Scholar. Coursework included Introduction to Computer Science, Statistics and Data Analysis for Social Sciences. 
   languages:
     - language1:
       name: English
