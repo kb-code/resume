@@ -58,26 +58,37 @@ author:
       duration: (1997 - 2001)
       description: National Merit Scholar. Coursework included Introduction to Computer Science, Statistics and Data Analysis for Social Sciences. 
     - education2:
-      organization: Codecademy
-      location: online
-      degree: Full-Stack Web Developer career track
-      started: 2020
-      duration: (2020 - 2020)
-      description: Completed 6 month certification track in full-stack web development. Completed individual class certifications - Introduction to HTML, Learn CSS, Learn Color Design, Learn Responsive Design, Introduction to JavaScript, Building Interactive Javascript Websites, Javascript Errors and Debugging, Learn Node.js, Learn the Command Line, Learn Git 
+      orgnization: Univeristy of California, Riverside
+      location: Riverside, CA
+      degree: Accelerated Career in Big Data and AI 
+      started: 2019
+      duration: (2019 - 2019)
+      description: Hands-on certification practicum for learning advanced data analysis with Python using Jupyter Notebooks, Pandas, Matplotlib.
     - education3:
-      organization: Codecademy
-      location: online
-      degree: Data Science career track
-      started: 2020
-      duration: (2020 - 2020)
-      description: Completing 6 month certification track in data science using Python and SQL. Completed individual class certifications - Learn SQL, Data Analysis with Pandas 
-    - education4:
       organization: CognitiveClass.ai
       location: online
       degree: Python For Data Science
       started: 2019
       duration: (2019 - 2020)
       description: Received IBM certification in using Python with modern data visualization and analysis tools like Pandas, Matplotlib, PyNum
+    - education4:
+      organization: Codecademy
+      location: online
+      degree: Full-Stack Web Developer career track
+      started: 2020
+      duration: (2020 - 2020)
+      description: Completed 6 month certification track in full-stack web development. Completed individual class certifications below -
+
+      Introduction to HTML, Learn CSS, Learn Color Design, Learn Responsive Design, Introduction to JavaScript, Building Interactive Javascript Websites, Javascript Errors and Debugging, Learn Node.js, Learn the Command Line, Learn Git 
+    - education5:
+      organization: Codecademy
+      location: online
+      degree: Data Science career track
+      started: 2020
+      duration: (2020 - 2020)
+      description: Completing 6 month certification track in data science using Python and SQL. Completed individual class certifications below - 
+
+      Learn SQL, Data Analysis with Pandas 
   languages:
     - language1:
       name: English
