@@ -40,16 +40,14 @@ author:
       title: Webmaster, Founder
       started: 2013
       duration: (2013 - present)
-      description: Founder and lead developer for a site that lists the locations of seed libraries around the world. The site uses Leaflet.js and a JSON file structure to house the library listings. Top ranked site on Google for queries within its niche topic.
+      description: Founder and lead developer for a site that lists the locations of seed libraries around the world. The site uses Leaflet.js and a JSON file structure to house the library listings. Top ranked site on Google for queries within its subject topic.
     - work3:
       company: Meteor Multimedia
       location: Los Angeles, CA
       title: Chief Creative Officer
       started: 2003
       duration: (2003 - 2013)
-      description: Lead creative designer and developer for digital creative agency specializing in feature film production and small business client services. Services included website development, branding materials (business cards, brochures, fundraising videos, corporate voiceovers, copywriting, and product photography), and digital strategy consultation. 
-
-        Produced a feature film from concept to release with an online streatming distributor.
+      description: Lead creative designer and developer for digital creative agency specializing in feature film production and small business client services. Services included website development, branding materials (business cards, brochures, logo design, fundraising videos, corporate voiceovers, copywriting, and product photography), and digital strategy consultation. Produced and edited a feature film from concept to distribution over streaming service platform.
   educationHistory:
     - education1:
       organization: Duke University
