@@ -6,7 +6,7 @@ This is the repository for my developer resume. It showcases my full-stack web d
 ## View My Resume
 -------
 
-To view the most current version of my resume, please click at the link at teh top of this repository, or visit:
+To view the most current version of my resume, please click at the link at the top of this repository, or visit:
 
 https://kb-code.github.io/resume
 
@@ -19,4 +19,4 @@ If you'd like to visit my main github profile, which houses some projects I've b
 
 https://github.com/kb-code
 
-Thank you for stopping by!
+Thank you for stopping by! ~Kathryn
