@@ -77,14 +77,14 @@ author:
       degree: Full-Stack Web Developer career track
       started: 2020
       duration: (2020 - 2020)
-      description: Completed 6 month certification track in full-stack web development. Completed individual class certifications below - <br> Introduction to HTML, Learn CSS, Learn Color Design, Learn Responsive Design, Introduction to JavaScript, Building Interactive Javascript Websites, Javascript Errors and Debugging, Learn Node.js, Learn the Command Line, Learn Git 
+      description: Completed 6 month certification track in full-stack web development. Completed individual class certifications below - <br> <strong>Introduction to HTML -- Learn CSS -- Learn Color Design -- Learn Responsive Design -- Introduction to JavaScript -- Building Interactive Javascript Websites -- Javascript Errors and Debugging -- Learn Node.js -- Learn the Command Line -- Learn Git</strong> 
     - education5:
       organization: Codecademy
       location: online
       degree: Data Science career track
       started: 2020
       duration: (2020 - 2020)
-      description: Completing 6 month certification track in data science using Python and SQL. Completed individual class certifications below - <br> Learn SQL, Data Analysis with Pandas 
+      description: Completing 6 month certification track in data science using Python and SQL. Completed individual class certifications below - <br> <strong>Learn SQL -- Data Analysis with Pandas </strong>
   languages:
     - language1:
       name: English
