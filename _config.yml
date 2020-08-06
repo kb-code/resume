@@ -77,14 +77,14 @@ author:
       degree: Full-Stack Web Developer career track
       started: 2020
       duration: (2020 - 2020)
-      description: Completed 6 month certification track in full-stack web development. Completed individual class certifications below - <br> __Introduction to HTML <br> Learn CSS <br> Learn Color Design -- Learn Responsive Design -- Introduction to JavaScript -- Building Interactive Javascript Websites -- Javascript Errors and Debugging -- Creating a Front-End Site with React Skill Path -- Learn Node.js -- Learn the Command Line -- Learn Git -- Learn Sass -- Navigation Design -- How to Deploy a Website -- Testing for Web Development -- Ansynchronous Javascript -- Learn Node-SQLite -- Learn Express - Javascript Unit Testing -- Create a Website with HTML, CSS, and GitHub Pages Skill Path__
+      description: Completed 6 month certification track in full-stack web development. Completed individual class certifications below - <br> <strong>Introduction to HTML <br> Learn CSS <br> Learn Color Design <br> Learn Responsive Design <br> Introduction to JavaScript <br> Building Interactive Javascript Websites <br> Javascript Errors and Debugging <br> Creating a Front-End Site with React Skill Path <br> Learn Node.js <br> Learn the Command Line <br> Learn Git <br> Learn Sass <br> Navigation Design <br> How to Deploy a Website <br> Testing for Web Development <br> Ansynchronous Javascript <br> Learn Node-SQLite <br> Learn Express - Javascript Unit Testing <br> Create a Website with HTML, CSS, and GitHub Pages Skill Path__
     - education5:
       organization: Codecademy
       location: online
       degree: Data Science career track
       started: 2020
       duration: (2020 - 2020)
-      description: Completed 6 month certification track in data science using Python and SQL. Completed individual class certifications below - <br> <strong>Learn SQL -- Data Analysis with Pandas -- Data Visualization with Python -- Web Scraping with Beautiful Soup -- Regular Expressions Basics -- How to Clean Data with Python -- Statistics with Python -- Statistics with NumPy -- Learn Python 3 -- Machine Learning Basics -- Natural Language Processing -- Learn D3 -- How to Transform Tables with SQL -- How to Analyze Business Metrics with SQL -- Basics of Blockchain with Python -- Recursion with Python -- Implementing Search Algorithms with Python -- Analyze Data with SQL Skill Path -- Analyze Financial Data with Python Skill Path -- Analyze Data with Python Skill Path</strong>
+      description: Completed 6 month certification track in data science using Python and SQL. Completed individual class certifications below - <br> <strong>Learn SQL <br> Data Analysis with Pandas <br> Data Visualization with Python <br> Web Scraping with Beautiful Soup <br> Regular Expressions Basics <br> How to Clean Data with Python <br> Statistics with Python <br> Statistics with NumPy <br> Learn Python 3 <br> Machine Learning Basics <br> Natural Language Processing <br> Learn D3 <br> How to Transform Tables with SQL <br> How to Analyze Business Metrics with SQL <br> Basics of Blockchain with Python <br> Recursion with Python <br> Implementing Search Algorithms with Python <br> Analyze Data with SQL Skill Path <br> Analyze Financial Data with Python Skill Path <br> Analyze Data with Python Skill Path</strong>
   languages:
     - language1:
       name: English
@@ -97,12 +97,14 @@ author:
       proficiency: Basic
   programmingSkills:
     - skill1:
-      name: HTML
+      name: HTML & CSS (Sass, Tailwind)
     - skill2:
       name: JavaScript
     - skill3:
       name: Python
     - skill4:
-      name: ReactJS
+      name: Data Science / ML (Pandas, NumPy, MatPlotLib, Seaborn)
     - skill5:
-      name: SQL
+      name: ReactJS, NodeJS
+    - skill6:
+      name: SQL (MySql, SQLite, PostgreSQL)
