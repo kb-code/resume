@@ -77,7 +77,7 @@ author:
       degree: Full-Stack Web Developer career track
       started: 2020
       duration: (2020 - 2020)
-      description: Completed 6 month certification track in full-stack web development. Completed individual class certifications below - <br> <strong>Introduction to HTML <br> Learn CSS <br> Learn Color Design <br> Learn Responsive Design <br> Introduction to JavaScript <br> Building Interactive Javascript Websites <br> Javascript Errors and Debugging <br> Creating a Front-End Site with React Skill Path <br> Learn Node.js <br> Learn the Command Line <br> Learn Git <br> Learn Sass <br> Navigation Design <br> How to Deploy a Website <br> Testing for Web Development <br> Ansynchronous Javascript <br> Learn Node-SQLite <br> Learn Express - Javascript Unit Testing <br> Create a Website with HTML, CSS, and GitHub Pages Skill Path__
+      description: Completed 6 month certification track in full-stack web development. Completed individual class certifications below - <br> <strong>Introduction to HTML <br> Learn CSS <br> Learn Color Design <br> Learn Responsive Design <br> Introduction to JavaScript <br> Building Interactive Javascript Websites <br> Javascript Errors and Debugging <br> Creating a Front-End Site with React Skill Path <br> Learn Node.js <br> Learn the Command Line <br> Learn Git <br> Learn Sass <br> Navigation Design <br> How to Deploy a Website <br> Testing for Web Development <br> Ansynchronous Javascript <br> Learn Node-SQLite <br> Learn Express - Javascript Unit Testing <br> Create a Website with HTML, CSS, and GitHub Pages Skill Path</strong>
     - education5:
       organization: Codecademy
       location: online
@@ -103,8 +103,8 @@ author:
     - skill3:
       name: Python
     - skill4:
-      name: Data Science / ML (Pandas, NumPy, MatPlotLib, Seaborn)
+      name: Data Sci/ML (Pandas, NumPy, MatPlotLib, Seaborn)
     - skill5:
-      name: ReactJS, NodeJS
+      name: React.js, Node.js
     - skill6:
-      name: SQL (MySql, SQLite, PostgreSQL)
+      name: SQL (SQLite, PostgreSQL)
