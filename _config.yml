@@ -28,12 +28,12 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: 
-      location: 
-      title: Developer
-      started: 2012
-      duration: ()
-      description: description coming soon...
+      company: Social Stories
+      location: Los Angeles, CA / remote
+      title: Developer, Product Manager
+      started: 2020
+      duration: (2020 - present)
+      description: developer and co-founder for social media site based around collaborative stories. Responsible for ideation, project management, co-lead on programming. The site uses React.js, Node.js, and PostgreSQL. Public release scheduled for Fall 2020.
     - work2:
       company: Seed Librarian
       location: Los Angeles, CA
@@ -77,14 +77,14 @@ author:
       degree: Full-Stack Web Developer career track
       started: 2020
       duration: (2020 - 2020)
-      description: Completed 6 month certification track in full-stack web development. Completed individual class certifications below - <br> <strong>Introduction to HTML -- Learn CSS -- Learn Color Design -- Learn Responsive Design -- Introduction to JavaScript -- Building Interactive Javascript Websites -- Javascript Errors and Debugging -- Creating a Front-End Site with React Skill Path -- Learn Node.js -- Learn the Command Line -- Learn Git</strong> creating a
+      description: Completed 6 month certification track in full-stack web development. Completed individual class certifications below - <br> <strong>Introduction to HTML -- Learn CSS -- Learn Color Design -- Learn Responsive Design -- Introduction to JavaScript -- Building Interactive Javascript Websites -- Javascript Errors and Debugging -- Creating a Front-End Site with React Skill Path -- Learn Node.js -- Learn the Command Line -- Learn Git -- Learn Sass -- Navigation Design -- How to Deploy a Website -- Testing for Web Development -- Ansynchronous Javascript -- Learn Node-SQLite -- Learn Express - Javascript Unit Testing -- Create a Website with HTML, CSS, and GitHub Pages Skill Path</strong>
     - education5:
       organization: Codecademy
       location: online
       degree: Data Science career track
       started: 2020
       duration: (2020 - 2020)
-      description: Completing 6 month certification track in data science using Python and SQL. Completed individual class certifications below - <br> <strong>Learn SQL -- Data Analysis with Pandas </strong>
+      description: Completed 6 month certification track in data science using Python and SQL. Completed individual class certifications below - <br> <strong>Learn SQL -- Data Analysis with Pandas -- Data Visualization with Python -- Web Scraping with Beautiful Soup -- Regular Expressions Basics -- How to Clean Data with Python -- Statistics with Python -- Statistics with NumPy -- Learn Python 3 -- Machine Learning Basics -- Natural Language Processing -- Learn D3 -- How to Transform Tables with SQL -- How to Analyze Business Metrics with SQL -- Basics of Blockchain with Python -- Recursion with Python -- Implementing Search Algorithms with Python -- Analyze Data with SQL Skill Path -- Analyze Financial Data with Python Skill Path -- Analyze Data with Python Skill Path</strong>
   languages:
     - language1:
       name: English
@@ -101,13 +101,13 @@ author:
       percentage: 100%
     - skill2:
       name: JavaScript
-      percentage: 70%
+      percentage: 75%
     - skill3:
       name: Python
-      percentage: 60%
+      percentage: 75%
     - skill4:
       name: ReactJS
-      percentage: 40%
+      percentage: 75%
     - skill5:
       name: SQL
       percentage: 90%
