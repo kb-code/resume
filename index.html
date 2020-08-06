@@ -219,9 +219,9 @@ layout: default
                 <div class="grid-block">
                     <ul class="list-unstyled list-skills">
                         {% for programmingSkill in site.author.programmingSkills %}
-                            <li class="pb-2">
+                            <li>
                                 {% if programmingSkill.name %}
-                                    <span class="caption-skill font-weight-bold">{{ programmingSkill.name }}</span>
+                                    <span class="caption-skill">{{ programmingSkill.name }}</span>
                                 {% endif %}
                             </li>
                         {% endfor %}
