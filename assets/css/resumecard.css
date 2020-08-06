@@ -298,6 +298,15 @@ hr {
 }
 
 /* skills css */
+.list-skills li {
+    background-color: white;
+    padding: 4px;
+    width: 50%;
+    margin: 2px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px #666;
+}
+
 .list-skills li .progress {
     height: 10px;
     box-shadow: none;
