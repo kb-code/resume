@@ -28,12 +28,12 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Social Stories
+      company: Folktale
       location: Los Angeles, CA / remote
       title: Developer, Product Manager
       started: 2020
       duration: (2020 - present)
-      description: developer and co-founder for social media site based around collaborative stories. Responsible for ideation, project management, co-lead on programming. The site uses React.js, Node.js, and PostgreSQL. Public release scheduled for Fall 2020.
+      description: fron end developer and co-founder for collaborative storytelling oscial media site. Responsible for ideation, project management, co-lead on programming. The site is built on a PERN stack and utilizes the Tailwind CSS framework. Public release November 2020.
     - work2:
       company: Seed Librarian
       location: Los Angeles, CA
